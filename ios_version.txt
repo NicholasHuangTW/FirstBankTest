@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 20180906,
   "name": "20180906",
   "link": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/NicholasHuangTW/FirstBankTest/master/manifest_test.plist",
   "note": ""
