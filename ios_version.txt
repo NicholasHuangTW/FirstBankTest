@@ -1,6 +1,6 @@
 {
-  "version": 20181012,
-  "name": "20181012",
+  "version": 20181016,
+  "name": "20181016",
   "link": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/NicholasHuangTW/FirstBankTest/master/manifest_test.plist",
   "note": ""
 }
